@@ -5,4 +5,5 @@ iOS Study Project
 
 #### This application uses UIKit elements such as "Label", "Button".
 
-![Начальное окно приложения] (/Volumes/Macintosh HD — данные/Development/For README/IMG_0171.PNG)
+![hello] (/https://github.com/konoin/RockPaperScissors/blob/main/IMG_0174.PNG)
+
