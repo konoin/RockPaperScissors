@@ -5,5 +5,6 @@ iOS Study Project
 
 #### This application uses UIKit elements such as "Label", "Button".
 
-![hello] (https://github.com/konoin/RockPaperScissors/blob/main/IMG_0174.PNG)
+!
+[RockPaperScissors](https://github.com/konoin/RockPaperScissors/blob/main/IMG_0174.PNG)
 
