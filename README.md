@@ -17,16 +17,16 @@ First screen
 
 ![RockPaperScissors](https://github.com/konoin/RockPaperScissors/blob/main/IMG_0171.PNG)
 
-***Also, when you select one of the emoji rock, paper or scissors, the GKRandomDistribution tool also selects one of these symbols, and based on the conditions, 
+### Also, when you select one of the emoji rock, paper or scissors, the GKRandomDistribution tool also selects one of these symbols, and based on the conditions, 
 you can win, play in a draw or lose.
 
 Win screen
 
-![Win](https://github.com/konoin/RockPaperScissors/blob/main/IMG_0172.PNG)
+![Win](https://github.com/konoin/RockPaperScissors/blob/main/IMG_0174.PNG)
 
 Lose screen
 
-![Lose](https://github.com/konoin/RockPaperScissors/blob/main/IMG_0174.PNG)
+![Lose](https://github.com/konoin/RockPaperScissors/blob/main/IMG_0172.PNG)
 
 Draw screen
 
