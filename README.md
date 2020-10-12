@@ -7,5 +7,5 @@ iOS Study Project
 
 # First screen
 
-![RockPaperScissors](https://github.com/konoin/RockPaperScissors/blob/main/IMG_0174.PNG)
+![RockPaperScissors](https://github.com/konoin/RockPaperScissors/blob/main/IMG_0171.PNG)
 
