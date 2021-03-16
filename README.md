@@ -7,7 +7,8 @@ iOS Study Project
 ### Also, to work with pseudo-random numbers, the library was imported *GameplayKit* using such a tool like GKRandomDistribution.
 
 Part of code
-<img src="https://github.com/konoin/RockPaperScissors/blob/main/Code_random.jpg" width="200">
+
+<img src="https://github.com/konoin/RockPaperScissors/blob/main/Code_random.jpg" width="400">
 
 
 ### In the following illustrations you will see the main screen, on which there are four  emoji and one label with an inscription about the choice of rock, paper or scissors.
